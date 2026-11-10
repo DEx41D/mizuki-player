@@ -52,21 +52,6 @@ The fastest way to get started is to run the automated script, which handles the
 *   [Download download-mizuka.sh](https://github.com/Rediska4445/mizuki-player/blob/main/scripts/build/download-mizuka.sh)
 *   Run: `bash download_mizuka.sh`
 
-### **Usage:**
-Default use (the example image uses the Russian language and the track "Darling" by DVRST and monrxe):  
-
-<div style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/cda15cf1-41f4-4263-9443-3a7b6f4c8ef2">
-</div>
-
-VST/VST3 Plugin host (the example image uses the Russian language and the track "LIBERTY" by LXST CXNTURY):    
-
-<div style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/aa3465af-26d4-4372-a7f2-4425ab6d0e33" />
-</div>
-
----
-
 
 # Features 
 
